@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "483173610990",
+    "firebase_url": "https://linelifemain-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "linelifemain",
+    "storage_bucket": "linelifemain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483173610990:android:6028754811022c18eb4aff",
+        "android_client_info": {
+          "package_name": "com.buddy.lifeline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZgkaTN1J5JcLh7ZLMz0MYeVZJR0kqdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
